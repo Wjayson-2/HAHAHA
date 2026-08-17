@@ -1,0 +1,9 @@
+{
+  "name": "countdown-cloudflare",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve public",
+    "build": "echo 'Static site ready for Cloudflare Pages'"
+  }
+}
